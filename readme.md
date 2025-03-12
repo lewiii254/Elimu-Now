@@ -44,6 +44,8 @@ Elimu Now is an open platform, and we welcome contributions from educators and d
 2. Create a new branch for your feature or improvement.
 3. Submit a pull request with a detailed explanation of your changes.
 
-We appreciate your support in making education more accessible and effective for students in Kenya!
+I appreciate your support in making education more accessible and effective for students in Kenya!
+
+### 😁Author Marklewis Mutugi [Email](ngondimarklewis@gmial.com) 🙌
 
 
